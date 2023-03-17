@@ -209,6 +209,7 @@ button:hover {
     text-decoration: none;
     position: absolute;
     bottom: 30px;
+    font-family: 'Urbanist';
 }
 
 .card {
@@ -532,7 +533,7 @@ footer small {
     }
 
     .mobile-only .card {
-        height: 365px;
+        height: 390px;
         padding: 8px;
         border-radius: 8px;
         width: 260px;
@@ -554,13 +555,13 @@ footer small {
     }
 
     .mobile-only .card-body a {
-        position: absolute;
         font-size: 15px;
         width: 102px;
         font-weight: 300;
-        height: 22.4px;
-        left: 165px;
-        top: 57%;
+        position: absolute;
+        bottom: 12px;
+        font-family: 'Urbanist';
+        
     }
 
     .char {
